@@ -9,5 +9,5 @@ class Dog
     @all << name
   end
 
-  
+
 end
