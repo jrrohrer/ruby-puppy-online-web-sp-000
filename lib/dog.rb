@@ -1,7 +1,7 @@
 # Add your code here
 class Dog
   @@all = []
-  
+
   def initialize(name)
     @name =  name
     @@all << name
@@ -12,6 +12,6 @@ class Dog
   end
 
   def self.print_all
-    
+
   end
 end
